@@ -1,5 +1,5 @@
 # Training
-1.Modify training setting in train.sh
+1.Modify training setting in train.sh  
 2.bash train.sh
 (We support lora finetune and bias tuning)
 
